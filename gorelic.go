@@ -1,4 +1,4 @@
-package negroni_gorelic
+package negronigorelic
 
 import (
 	"net/http"
