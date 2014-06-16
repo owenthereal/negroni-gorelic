@@ -1,7 +1,7 @@
 negroni-gorelic
 ===============
 
-[NewRelic](https://newrelic.com) middleware for the [negroni](https://github.com/codegangsta/negroni) framework.
+[New Relic](https://newrelic.com) middleware for the [negroni](https://github.com/codegangsta/negroni) framework.
 
 Usage
 -----
@@ -32,10 +32,12 @@ func main() {
 }
 ```
 
+See a running [example](https://github.com/jingweno/negroni-gorelic/blob/master/example/example.go).
+
 Credits
 -------
 
-A shout out to @yvasiyarov for his awesome work of [gorelic](https://github.com/yvasiyarov/gorelic).
+A shout out to [@yvasiyarov](https://github.com/yvasiyarov) for his awesome work of [gorelic](https://github.com/yvasiyarov/gorelic).
 
 License
 -------
